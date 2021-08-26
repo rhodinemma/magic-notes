@@ -1,0 +1,26 @@
+{
+  "name": "magic-notes",
+  "version": "1.0.0",
+  "description": "A project in vanilla javascript. You can add notes, show all notes and also delete each and every note",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhodinemma/magic-notes.git"
+  },
+  "author": "Nagwere Rhodin Emmanuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhodinemma/magic-notes/issues"
+  },
+  "homepage": "https://github.com/rhodinemma/magic-notes#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
